@@ -1,0 +1,30 @@
+version: "3.1"
+
+services:
+  data:
+    container_name: data_container
+    build: ./data
+    ports:
+      - 4040:4040
+    restart:
+      on-failure
+    networks:
+      - mynetwork
+    environment:
+      PORT: 4040
+  myapp:
+    container_name: myapp_container
+    build: ./myapp
+    ports:
+      - 5050:5050
+    restart:
+      on-failure
+    networks:
+      - mynetwork
+    environment:
+      PORT: 5050
+      ROUTE: http://data_container:4040
+
+networks:
+  mynetwork: {}
+    

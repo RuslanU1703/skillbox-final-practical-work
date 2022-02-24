@@ -1,0 +1,1098 @@
+{
+ "sms": [
+  [
+   {
+    "country": "Monaco",
+    "bandwidth": "99",
+    "response_time": "999",
+    "provider": "Kildy"
+   },
+   {
+    "country": "New Zealand",
+    "bandwidth": "12",
+    "response_time": "1783",
+    "provider": "Kildy"
+   },
+   {
+    "country": "Saint Barthélemy",
+    "bandwidth": "22",
+    "response_time": "1756",
+    "provider": "Kildy"
+   },
+   {
+    "country": "United States of America",
+    "bandwidth": "50",
+    "response_time": "421",
+    "provider": "Rond"
+   },
+   {
+    "country": "Turkey",
+    "bandwidth": "63",
+    "response_time": "617",
+    "provider": "Rond"
+   },
+   {
+    "country": "Canada",
+    "bandwidth": "20",
+    "response_time": "1431",
+    "provider": "Rond"
+   },
+   {
+    "country": "Bulgaria",
+    "bandwidth": "94",
+    "response_time": "1875",
+    "provider": "Rond"
+   },
+   {
+    "country": "Denmark",
+    "bandwidth": "36",
+    "response_time": "416",
+    "provider": "Topolo"
+   },
+   {
+    "country": "Austria",
+    "bandwidth": "63",
+    "response_time": "1967",
+    "provider": "Topolo"
+   },
+   {
+    "country": "Spain",
+    "bandwidth": "56",
+    "response_time": "800",
+    "provider": "Topolo"
+   },
+   {
+    "country": "Switzerland",
+    "bandwidth": "57",
+    "response_time": "886",
+    "provider": "Topolo"
+   },
+   {
+    "country": "France",
+    "bandwidth": "32",
+    "response_time": "954",
+    "provider": "Topolo"
+   },
+   {
+    "country": "Great Britain",
+    "bandwidth": "28",
+    "response_time": "1938",
+    "provider": "Topolo"
+   },
+   {
+    "country": "Russian Federation",
+    "bandwidth": "17",
+    "response_time": "174",
+    "provider": "Topolo"
+   }
+  ],
+  [
+   {
+    "country": "Austria",
+    "bandwidth": "63",
+    "response_time": "1967",
+    "provider": "Topolo"
+   },
+   {
+    "country": "Bulgaria",
+    "bandwidth": "94",
+    "response_time": "1875",
+    "provider": "Rond"
+   },
+   {
+    "country": "Canada",
+    "bandwidth": "20",
+    "response_time": "1431",
+    "provider": "Rond"
+   },
+   {
+    "country": "Denmark",
+    "bandwidth": "36",
+    "response_time": "416",
+    "provider": "Topolo"
+   },
+   {
+    "country": "France",
+    "bandwidth": "32",
+    "response_time": "954",
+    "provider": "Topolo"
+   },
+   {
+    "country": "Great Britain",
+    "bandwidth": "28",
+    "response_time": "1938",
+    "provider": "Topolo"
+   },
+   {
+    "country": "Monaco",
+    "bandwidth": "99",
+    "response_time": "861",
+    "provider": "Kildy"
+   },
+   {
+    "country": "New Zealand",
+    "bandwidth": "12",
+    "response_time": "1783",
+    "provider": "Kildy"
+   },
+   {
+    "country": "Russian Federation",
+    "bandwidth": "17",
+    "response_time": "174",
+    "provider": "Topolo"
+   },
+   {
+    "country": "Saint Barthélemy",
+    "bandwidth": "22",
+    "response_time": "1756",
+    "provider": "Kildy"
+   },
+   {
+    "country": "Spain",
+    "bandwidth": "56",
+    "response_time": "800",
+    "provider": "Topolo"
+   },
+   {
+    "country": "Switzerland",
+    "bandwidth": "57",
+    "response_time": "886",
+    "provider": "Topolo"
+   },
+   {
+    "country": "Turkey",
+    "bandwidth": "63",
+    "response_time": "617",
+    "provider": "Rond"
+   },
+   {
+    "country": "United States of America",
+    "bandwidth": "50",
+    "response_time": "421",
+    "provider": "Rond"
+   }
+  ]
+ ],
+ "mms": [
+  [
+   {
+    "country": "Monaco",
+    "provider": "Kildy",
+    "bandwidth": "64",
+    "response_time": "1741"
+   },
+   {
+    "country": "New Zealand",
+    "provider": "Kildy",
+    "bandwidth": "92",
+    "response_time": "1971"
+   },
+   {
+    "country": "Saint Barthélemy",
+    "provider": "Kildy",
+    "bandwidth": "3",
+    "response_time": "442"
+   },
+   {
+    "country": "United States of America",
+    "provider": "Rond",
+    "bandwidth": "77",
+    "response_time": "681"
+   },
+   {
+    "country": "Turkey",
+    "provider": "Rond",
+    "bandwidth": "40",
+    "response_time": "1887"
+   },
+   {
+    "country": "Canada",
+    "provider": "Rond",
+    "bandwidth": "67",
+    "response_time": "254"
+   },
+   {
+    "country": "Bulgaria",
+    "provider": "Rond",
+    "bandwidth": "87",
+    "response_time": "1419"
+   },
+   {
+    "country": "Denmark",
+    "provider": "Topolo",
+    "bandwidth": "71",
+    "response_time": "447"
+   },
+   {
+    "country": "Austria",
+    "provider": "Topolo",
+    "bandwidth": "63",
+    "response_time": "258"
+   },
+   {
+    "country": "Spain",
+    "provider": "Topolo",
+    "bandwidth": "57",
+    "response_time": "1064"
+   },
+   {
+    "country": "Switzerland",
+    "provider": "Topolo",
+    "bandwidth": "53",
+    "response_time": "741"
+   },
+   {
+    "country": "France",
+    "provider": "Topolo",
+    "bandwidth": "55",
+    "response_time": "1727"
+   },
+   {
+    "country": "Peru",
+    "provider": "Topolo",
+    "bandwidth": "0",
+    "response_time": "1184"
+   },
+   {
+    "country": "Great Britain",
+    "provider": "Topolo",
+    "bandwidth": "41",
+    "response_time": "1970"
+   },
+   {
+    "country": "Russian Federation",
+    "provider": "Topolo",
+    "bandwidth": "71",
+    "response_time": "876"
+   }
+  ],
+  [
+   {
+    "country": "Austria",
+    "provider": "Topolo",
+    "bandwidth": "63",
+    "response_time": "258"
+   },
+   {
+    "country": "Bulgaria",
+    "provider": "Rond",
+    "bandwidth": "87",
+    "response_time": "1419"
+   },
+   {
+    "country": "Canada",
+    "provider": "Rond",
+    "bandwidth": "67",
+    "response_time": "254"
+   },
+   {
+    "country": "Denmark",
+    "provider": "Topolo",
+    "bandwidth": "71",
+    "response_time": "447"
+   },
+   {
+    "country": "France",
+    "provider": "Topolo",
+    "bandwidth": "55",
+    "response_time": "1727"
+   },
+   {
+    "country": "Great Britain",
+    "provider": "Topolo",
+    "bandwidth": "41",
+    "response_time": "1970"
+   },
+   {
+    "country": "Monaco",
+    "provider": "Kildy",
+    "bandwidth": "64",
+    "response_time": "1741"
+   },
+   {
+    "country": "New Zealand",
+    "provider": "Kildy",
+    "bandwidth": "92",
+    "response_time": "1971"
+   },
+   {
+    "country": "Peru",
+    "provider": "Topolo",
+    "bandwidth": "0",
+    "response_time": "1184"
+   },
+   {
+    "country": "Russian Federation",
+    "provider": "Topolo",
+    "bandwidth": "71",
+    "response_time": "876"
+   },
+   {
+    "country": "Saint Barthélemy",
+    "provider": "Kildy",
+    "bandwidth": "3",
+    "response_time": "442"
+   },
+   {
+    "country": "Spain",
+    "provider": "Topolo",
+    "bandwidth": "57",
+    "response_time": "1064"
+   },
+   {
+    "country": "Switzerland",
+    "provider": "Topolo",
+    "bandwidth": "53",
+    "response_time": "741"
+   },
+   {
+    "country": "Turkey",
+    "provider": "Rond",
+    "bandwidth": "40",
+    "response_time": "1887"
+   },
+   {
+    "country": "United States of America",
+    "provider": "Rond",
+    "bandwidth": "77",
+    "response_time": "681"
+   }
+  ]
+ ],
+ "voice_call": [
+  {
+   "country": "RU",
+   "bandwidth": "22",
+   "response_time": "1812",
+   "provider": "TransparentCalls",
+   "connection_stability": 0.98,
+   "ttfb": 763,
+   "voice_purity": 31,
+   "median_of_call_time": 32
+  },
+  {
+   "country": "US",
+   "bandwidth": "18",
+   "response_time": "322",
+   "provider": "E-Voice",
+   "connection_stability": 0.75,
+   "ttfb": 753,
+   "voice_purity": 63,
+   "median_of_call_time": 33
+  },
+  {
+   "country": "GB",
+   "bandwidth": "17",
+   "response_time": "1061",
+   "provider": "TransparentCalls",
+   "connection_stability": 0.69,
+   "ttfb": 114,
+   "voice_purity": 13,
+   "median_of_call_time": 57
+  },
+  {
+   "country": "FR",
+   "bandwidth": "35",
+   "response_time": "1105",
+   "provider": "TransparentCalls",
+   "connection_stability": 0.66,
+   "ttfb": 752,
+   "voice_purity": 88,
+   "median_of_call_time": 6
+  },
+  {
+   "country": "BL",
+   "bandwidth": "90",
+   "response_time": "1387",
+   "provider": "E-Voice",
+   "connection_stability": 0.69,
+   "ttfb": 788,
+   "voice_purity": 79,
+   "median_of_call_time": 22
+  },
+  {
+   "country": "AT",
+   "bandwidth": "36",
+   "response_time": "1081",
+   "provider": "TransparentCalls",
+   "connection_stability": 0.64,
+   "ttfb": 433,
+   "voice_purity": 85,
+   "median_of_call_time": 54
+  },
+  {
+   "country": "BG",
+   "bandwidth": "70",
+   "response_time": "1838",
+   "provider": "E-Voice",
+   "connection_stability": 0.62,
+   "ttfb": 950,
+   "voice_purity": 1,
+   "median_of_call_time": 59
+  },
+  {
+   "country": "DK",
+   "bandwidth": "51",
+   "response_time": "801",
+   "provider": "JustPhone",
+   "connection_stability": 0.66,
+   "ttfb": 712,
+   "voice_purity": 61,
+   "median_of_call_time": 57
+  },
+  {
+   "country": "CA",
+   "bandwidth": "66",
+   "response_time": "57",
+   "provider": "JustPhone",
+   "connection_stability": 0.98,
+   "ttfb": 133,
+   "voice_purity": 3,
+   "median_of_call_time": 9
+  },
+  {
+   "country": "ES",
+   "bandwidth": "54",
+   "response_time": "1550",
+   "provider": "E-Voice",
+   "connection_stability": 0.71,
+   "ttfb": 75,
+   "voice_purity": 80,
+   "median_of_call_time": 48
+  },
+  {
+   "country": "CH",
+   "bandwidth": "47",
+   "response_time": "1434",
+   "provider": "JustPhone",
+   "connection_stability": 1,
+   "ttfb": 369,
+   "voice_purity": 35,
+   "median_of_call_time": 53
+  },
+  {
+   "country": "TR",
+   "bandwidth": "18",
+   "response_time": "752",
+   "provider": "TransparentCalls",
+   "connection_stability": 0.63,
+   "ttfb": 459,
+   "voice_purity": 18,
+   "median_of_call_time": 36
+  },
+  {
+   "country": "PE",
+   "bandwidth": "38",
+   "response_time": "1321",
+   "provider": "JustPhone",
+   "connection_stability": 0.63,
+   "ttfb": 78,
+   "voice_purity": 41,
+   "median_of_call_time": 24
+  },
+  {
+   "country": "NZ",
+   "bandwidth": "76",
+   "response_time": "1269",
+   "provider": "JustPhone",
+   "connection_stability": 0.89,
+   "ttfb": 76,
+   "voice_purity": 5,
+   "median_of_call_time": 53
+  },
+  {
+   "country": "MC",
+   "bandwidth": "44",
+   "response_time": "1575",
+   "provider": "E-Voice",
+   "connection_stability": 0.86,
+   "ttfb": 891,
+   "voice_purity": 67,
+   "median_of_call_time": 40
+  }
+ ],
+ "email": {
+  "AT": [
+   [
+    {
+     "country": "AT",
+     "provider": "RediffMail",
+     "delivery_time": 564
+    },
+    {
+     "country": "AT",
+     "provider": "Hotmail",
+     "delivery_time": 503
+    },
+    {
+     "country": "AT",
+     "provider": "Orange",
+     "delivery_time": 496
+    }
+   ],
+   [
+    {
+     "country": "AT",
+     "provider": "Gmail",
+     "delivery_time": 52
+    },
+    {
+     "country": "AT",
+     "provider": "GMX",
+     "delivery_time": 77
+    },
+    {
+     "country": "AT",
+     "provider": "AOL",
+     "delivery_time": 85
+    }
+   ]
+  ],
+  "BG": [
+   [
+    {
+     "country": "BG",
+     "provider": "Orange",
+     "delivery_time": 576
+    },
+    {
+     "country": "BG",
+     "provider": "RediffMail",
+     "delivery_time": 523
+    },
+    {
+     "country": "BG",
+     "provider": "Mail.ru",
+     "delivery_time": 498
+    }
+   ],
+   [
+    {
+     "country": "BG",
+     "provider": "MSN",
+     "delivery_time": 67
+    },
+    {
+     "country": "BG",
+     "provider": "Protonmail",
+     "delivery_time": 187
+    },
+    {
+     "country": "BG",
+     "provider": "Comcast",
+     "delivery_time": 230
+    }
+   ]
+  ],
+  "BL": [
+   [
+    {
+     "country": "BL",
+     "provider": "Mail.ru",
+     "delivery_time": 548
+    },
+    {
+     "country": "BL",
+     "provider": "Comcast",
+     "delivery_time": 530
+    },
+    {
+     "country": "BL",
+     "provider": "GMX",
+     "delivery_time": 505
+    }
+   ],
+   [
+    {
+     "country": "BL",
+     "provider": "Orange",
+     "delivery_time": 6
+    },
+    {
+     "country": "BL",
+     "provider": "RediffMail",
+     "delivery_time": 140
+    },
+    {
+     "country": "BL",
+     "provider": "Live",
+     "delivery_time": 201
+    }
+   ]
+  ],
+  "CA": [
+   [
+    {
+     "country": "CA",
+     "provider": "Gmail",
+     "delivery_time": 586
+    },
+    {
+     "country": "CA",
+     "provider": "Orange",
+     "delivery_time": 529
+    },
+    {
+     "country": "CA",
+     "provider": "Yahoo",
+     "delivery_time": 500
+    }
+   ],
+   [
+    {
+     "country": "CA",
+     "provider": "Comcast",
+     "delivery_time": 19
+    },
+    {
+     "country": "CA",
+     "provider": "Yandex",
+     "delivery_time": 178
+    },
+    {
+     "country": "CA",
+     "provider": "MSN",
+     "delivery_time": 185
+    }
+   ]
+  ],
+  "CH": [
+   [
+    {
+     "country": "CH",
+     "provider": "Orange",
+     "delivery_time": 584
+    },
+    {
+     "country": "CH",
+     "provider": "Yahoo",
+     "delivery_time": 431
+    },
+    {
+     "country": "CH",
+     "provider": "Yandex",
+     "delivery_time": 424
+    }
+   ],
+   [
+    {
+     "country": "CH",
+     "provider": "MSN",
+     "delivery_time": 20
+    },
+    {
+     "country": "CH",
+     "provider": "Live",
+     "delivery_time": 30
+    },
+    {
+     "country": "CH",
+     "provider": "Hotmail",
+     "delivery_time": 111
+    }
+   ]
+  ],
+  "DK": [
+   [
+    {
+     "country": "DK",
+     "provider": "Comcast",
+     "delivery_time": 550
+    },
+    {
+     "country": "DK",
+     "provider": "Yahoo",
+     "delivery_time": 518
+    },
+    {
+     "country": "DK",
+     "provider": "Hotmail",
+     "delivery_time": 458
+    }
+   ],
+   [
+    {
+     "country": "DK",
+     "provider": "Yandex",
+     "delivery_time": 25
+    },
+    {
+     "country": "DK",
+     "provider": "Mail.ru",
+     "delivery_time": 85
+    },
+    {
+     "country": "DK",
+     "provider": "GMX",
+     "delivery_time": 130
+    }
+   ]
+  ],
+  "ES": [
+   [
+    {
+     "country": "ES",
+     "provider": "Yahoo",
+     "delivery_time": 539
+    },
+    {
+     "country": "ES",
+     "provider": "RediffMail",
+     "delivery_time": 534
+    },
+    {
+     "country": "ES",
+     "provider": "Comcast",
+     "delivery_time": 526
+    }
+   ],
+   [
+    {
+     "country": "ES",
+     "provider": "Protonmail",
+     "delivery_time": 11
+    },
+    {
+     "country": "ES",
+     "provider": "Yandex",
+     "delivery_time": 31
+    },
+    {
+     "country": "ES",
+     "provider": "AOL",
+     "delivery_time": 51
+    }
+   ]
+  ],
+  "FR": [
+   [
+    {
+     "country": "FR",
+     "provider": "Yahoo",
+     "delivery_time": 571
+    },
+    {
+     "country": "FR",
+     "provider": "Protonmail",
+     "delivery_time": 491
+    },
+    {
+     "country": "FR",
+     "provider": "GMX",
+     "delivery_time": 437
+    }
+   ],
+   [
+    {
+     "country": "FR",
+     "provider": "Live",
+     "delivery_time": 35
+    },
+    {
+     "country": "FR",
+     "provider": "Gmail",
+     "delivery_time": 46
+    },
+    {
+     "country": "FR",
+     "provider": "Mail.ru",
+     "delivery_time": 87
+    }
+   ]
+  ],
+  "GB": [
+   [
+    {
+     "country": "GB",
+     "provider": "AOL",
+     "delivery_time": 506
+    },
+    {
+     "country": "GB",
+     "provider": "GMX",
+     "delivery_time": 468
+    },
+    {
+     "country": "GB",
+     "provider": "Yahoo",
+     "delivery_time": 468
+    }
+   ],
+   [
+    {
+     "country": "GB",
+     "provider": "Protonmail",
+     "delivery_time": 70
+    },
+    {
+     "country": "GB",
+     "provider": "Hotmail",
+     "delivery_time": 118
+    },
+    {
+     "country": "GB",
+     "provider": "RediffMail",
+     "delivery_time": 186
+    }
+   ]
+  ],
+  "MC": [
+   [
+    {
+     "country": "MC",
+     "provider": "Comcast",
+     "delivery_time": 499
+    },
+    {
+     "country": "MC",
+     "provider": "GMX",
+     "delivery_time": 470
+    },
+    {
+     "country": "MC",
+     "provider": "Live",
+     "delivery_time": 438
+    }
+   ],
+   [
+    {
+     "country": "MC",
+     "provider": "Protonmail",
+     "delivery_time": 27
+    },
+    {
+     "country": "MC",
+     "provider": "Gmail",
+     "delivery_time": 37
+    },
+    {
+     "country": "MC",
+     "provider": "Orange",
+     "delivery_time": 238
+    }
+   ]
+  ],
+  "NZ": [
+   [
+    {
+     "country": "NZ",
+     "provider": "RediffMail",
+     "delivery_time": 597
+    },
+    {
+     "country": "NZ",
+     "provider": "Yandex",
+     "delivery_time": 543
+    },
+    {
+     "country": "NZ",
+     "provider": "Yahoo",
+     "delivery_time": 533
+    }
+   ],
+   [
+    {
+     "country": "NZ",
+     "provider": "Mail.ru",
+     "delivery_time": 54
+    },
+    {
+     "country": "NZ",
+     "provider": "Hotmail",
+     "delivery_time": 56
+    },
+    {
+     "country": "NZ",
+     "provider": "Orange",
+     "delivery_time": 65
+    }
+   ]
+  ],
+  "PE": [
+   [
+    {
+     "country": "PE",
+     "provider": "MSN",
+     "delivery_time": 598
+    },
+    {
+     "country": "PE",
+     "provider": "RediffMail",
+     "delivery_time": 593
+    },
+    {
+     "country": "PE",
+     "provider": "Yahoo",
+     "delivery_time": 577
+    }
+   ],
+   [
+    {
+     "country": "PE",
+     "provider": "AOL",
+     "delivery_time": 39
+    },
+    {
+     "country": "PE",
+     "provider": "Yandex",
+     "delivery_time": 44
+    },
+    {
+     "country": "PE",
+     "provider": "Live",
+     "delivery_time": 88
+    }
+   ]
+  ],
+  "RU": [
+   [
+    {
+     "country": "RU",
+     "provider": "Gmail",
+     "delivery_time": 528
+    },
+    {
+     "country": "RU",
+     "provider": "GMX",
+     "delivery_time": 425
+    },
+    {
+     "country": "RU",
+     "provider": "Mail.ru",
+     "delivery_time": 349
+    }
+   ],
+   [
+    {
+     "country": "RU",
+     "provider": "Hotmail",
+     "delivery_time": 6
+    },
+    {
+     "country": "RU",
+     "provider": "RediffMail",
+     "delivery_time": 8
+    },
+    {
+     "country": "RU",
+     "provider": "Yahoo",
+     "delivery_time": 10
+    }
+   ]
+  ],
+  "TR": [
+   [
+    {
+     "country": "TR",
+     "provider": "RediffMail",
+     "delivery_time": 599
+    },
+    {
+     "country": "TR",
+     "provider": "Live",
+     "delivery_time": 597
+    },
+    {
+     "country": "TR",
+     "provider": "Comcast",
+     "delivery_time": 434
+    }
+   ],
+   [
+    {
+     "country": "TR",
+     "provider": "Gmail",
+     "delivery_time": 6
+    },
+    {
+     "country": "TR",
+     "provider": "Protonmail",
+     "delivery_time": 25
+    },
+    {
+     "country": "TR",
+     "provider": "Yahoo",
+     "delivery_time": 68
+    }
+   ]
+  ],
+  "US": [
+   [
+    {
+     "country": "US",
+     "provider": "Gmail",
+     "delivery_time": 588
+    },
+    {
+     "country": "US",
+     "provider": "Live",
+     "delivery_time": 443
+    },
+    {
+     "country": "US",
+     "provider": "Comcast",
+     "delivery_time": 413
+    }
+   ],
+   [
+    {
+     "country": "US",
+     "provider": "Protonmail",
+     "delivery_time": 44
+    },
+    {
+     "country": "US",
+     "provider": "Mail.ru",
+     "delivery_time": 104
+    },
+    {
+     "country": "US",
+     "provider": "AOL",
+     "delivery_time": 153
+    }
+   ]
+  ]
+ },
+ "billing": {
+  "create_customer": true,
+  "purchase": true,
+  "payout": false,
+  "recurring": false,
+  "fraud_control": false,
+  "checkout_page": false
+ },
+ "support": [
+  3,
+  146
+ ],
+ "incident": [
+  {
+   "topic": "SMS delivery in EU",
+   "status": "closed"
+  },
+  {
+   "topic": "MMS connection stability",
+   "status": "closed"
+  },
+  {
+   "topic": "Voice call connection purity",
+   "status": "closed"
+  },
+  {
+   "topic": "Checkout page is down",
+   "status": "closed"
+  },
+  {
+   "topic": "Support overload",
+   "status": "closed"
+  },
+  {
+   "topic": "Buy phone number not working in US",
+   "status": "closed"
+  },
+  {
+   "topic": "API Slow latency",
+   "status": "closed"
+  }
+ ]
+}
